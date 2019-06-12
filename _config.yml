@@ -7,7 +7,7 @@ keywords:
 
 # URL
 url: "https://wiredcraft.github.io/jekyll-basics"
-baseurl: ""
+baseurl: "/podcasts"
 
 # Google tracking (Analytics and Google Tag Manager)
 # google_tag_manager: GTM-XXXXXX
