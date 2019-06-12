@@ -6,8 +6,8 @@ keywords:
 - Jekyll
 
 # URL
-url: "https://antonaladzhov.github.io/podcasts/"
-baseurl: ""
+url: "https://antonaladzhov.github.io"
+baseurl: "/podcasts"
 
 # Google tracking (Analytics and Google Tag Manager)
 # google_tag_manager: GTM-XXXXXX

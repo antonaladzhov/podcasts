@@ -23,7 +23,7 @@
   {% include favicons.html %}
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles.css?version-{{ site.version }}">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/styles.css?version-{{ site.version }}">
 </head>
 
 <body class="lang-{{ lang }}{% if page.collection %} type-{{ page.collection }}{% else %}{% if depth > 0 %} page-{{ path | join: '-' }}{% else %} page-front{% endif %}{% endif %}{% if page.class %} {{ page.class }}{% endif %}">
