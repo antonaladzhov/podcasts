@@ -1,70 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+  podcasts
+  
+  
+  <url>
+    <loc>http://localhost:4000/podcasts/desingofthings/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    
+  </url>
+  
+  
   posts
   
   
   <url>
     <loc>http://localhost:4000/fourth-post/</loc>
-    <lastmod>2019-06-13T00:36:24+03:00</lastmod>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/zh/third-post/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/fourth-post/"/>
-    
-    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:4000/fr/fourth-post/"/>
-    
-    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:4000/zh/fourth-post/"/>
-    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/fr/third-post/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     
   </url>
   
   <url>
     <loc>http://localhost:4000/third-post/</loc>
-    <lastmod>2019-06-13T00:36:24+03:00</lastmod>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/zh/second-post/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/third-post/"/>
-    
-    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:4000/fr/third-post/"/>
-    
-    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:4000/zh/third-post/"/>
-    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/fr/second-post/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     
   </url>
   
   <url>
     <loc>http://localhost:4000/second-post/</loc>
-    <lastmod>2019-06-13T00:36:24+03:00</lastmod>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/zh/first-post/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/second-post/"/>
-    
-    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:4000/fr/second-post/"/>
-    
-    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:4000/zh/second-post/"/>
-    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/fr/first-post/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     
   </url>
   
   <url>
     <loc>http://localhost:4000/first-post/</loc>
-    <lastmod>2019-06-13T00:36:24+03:00</lastmod>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    
-    
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/first-post/"/>
-    
-    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:4000/fr/first-post/"/>
-    
-    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:4000/zh/first-post/"/>
-    
     
   </url>
   
@@ -72,18 +100,90 @@
   
   
   <url>
-    <loc>http://localhost:4000/</loc>
-    <lastmod>2019-06-13T00:36:24+03:00</lastmod>
+    <loc>http://localhost:4000/atom.xml</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/zh/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
     
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/"/>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/fr/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
     
-    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:4000/fr/"/>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
     
-    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:4000/zh/"/>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/sitemap.xml</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
     
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/assets/styles.css</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/assets/css/style.css</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/node_modules/bootstrap/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/node_modules/jquery/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/node_modules/popper.js/</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/robots.txt</loc>
+    <lastmod>2019-06-13T01:44:35+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
     
   </url>
   

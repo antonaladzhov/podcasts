@@ -48,15 +48,20 @@ defaults:
       layout: post
       class: post
 
+collections:
+  podcasts:
+    name: true
+
+# sass
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+
 # Plugins
 plugins:
 - jekyll-sitemap
 
-# Multiligual
-lang:
-  - en
-  - fr
-  - zh
 
 # Version (helps with force reloading assets)
 version: sparkle

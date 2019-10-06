@@ -1,0 +1,20 @@
+{
+  "name": "podcasts",
+  "version": "1.0.0",
+  "description": "Jekyll Basics is a simple boilerplate for Jekyll websites with a few (opinionated) best practices in mind:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonaladzhov/podcasts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonaladzhov/podcasts/issues"
+  },
+  "homepage": "https://github.com/antonaladzhov/podcasts#readme"
+}
